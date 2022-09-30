@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Hi there, my name is Oleksandra Kurbanova
 
 <!--
 **SashaKurban/SashaKurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-
+### Skills
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Connect with me
