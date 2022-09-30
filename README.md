@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 👩‍💻 I am an aspiring Software Engineer studying Computer Science at Brooklyn College, set to graduate in May 2023. I am also a President of the Computer Science club, working in a team to mentor students and host valuable tech-workshops to improve their skills. 
 
+📚 I love reading and learning new things in my free time.
+
 💡 During my recent summer internship at Capital One I gained experience working with React, Next.js, JavaScript, HMTL/CSS and Jest. I am interested in further learning Software and Full-Stack development.
 
 🔭 Currently I am working on a Full-Stack personal project “Expiration Date”, which allows users to track expiration dates of their groceries and to reorganize them in various ways. I have used Spring Boot and PostgeSQL for the backend of the application, and React for the frontend.
