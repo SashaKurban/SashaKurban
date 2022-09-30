@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaKurban)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 Connect with me
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandra-kurbanova/)
